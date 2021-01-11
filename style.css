@@ -1,0 +1,17 @@
+.c1{
+    border: 0;
+}
+
+.ft{
+    background-color: white;
+    border: 0;
+}
+
+.catagories img{
+    width: 100px;
+}
+
+.s1 .carousel-item{
+background-color: salmon;
+border-radius: 1em;
+}
